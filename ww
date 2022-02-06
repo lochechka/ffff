@@ -1,0 +1,24 @@
+.nav-item {
+    margin-left: 100px 
+}
+header .nav-item a {
+background-color: rgb(255, 255, 255);
+transition: all o.5s;
+border-radius: 10px; 
+}
+header .nav-item a:hover {
+    background-color: rgb(231, 231, 231);
+    border-radius: 10px; 
+}
+.s-card {
+    margin: 100px;
+}
+.link-her {
+    text-decoration: none;
+ color: rgb(117, 117, 117);
+ margin: 100px
+}
+.grid-post {
+    margin: 100px;
+    border-radius: 10px; 
+}
